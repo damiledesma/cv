@@ -1,2 +1,2 @@
-# personal
-info personal
+# Información personal
+Página para subir cv
